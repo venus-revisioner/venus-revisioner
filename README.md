@@ -103,11 +103,7 @@ python setup.py bdist_wheel --universal (python2 & python3 compatible)
 
 pip install twine
 
-only tar:
-twine upload --repository-url https://test.pypi.org/legacy/ dist/my-0.1.0.tar.gz
-
-both:
-twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+python -m twine upload --repository testpypi dist/*
 
 username & password? __token__ under &HOME/.pypirc
 
