@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **venus-revisioner/venus-revisioner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... I'm hard to reach even with a phone number!
 - 😄 Pronouns: ... me? 
 - ⚡ Fun fact: ... I stoned a brand new Mercedes-Benz when I was 7-8 yo. I was just fascinated of the parabolic trajectores the stones made especially when bouncing off the neighboring cars. I didn't realize its not ok to do so.
---> HELP ME!
+ HELP ME!
 
 
 
